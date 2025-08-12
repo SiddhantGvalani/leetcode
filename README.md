@@ -11,3 +11,9 @@ Linked Lists,
 Trees,
 Graphs,
 etc.
+
+## Installation
+Visit leetcode's official website @ 
+```bash
+https://leetcode.com/
+```
