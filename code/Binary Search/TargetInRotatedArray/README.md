@@ -5,13 +5,12 @@ Given an originally sorted array that has been rotated 1 through n times, where 
 As always in Binary Search problems, we create 3 pointers low, mid and high pointing to the first, middle, and last indices respectively.
 Let us graph the array [1,2,3,4,5,6] before and after rotation an arbitary number of times.
 Before Rotation:
-                  .
-               .
-.           . 
-.        .
-.     .               
-.  .                   
-. . . . . . .          
+
+#.           . 
+#.        .
+#.     .               
+#.  .                   
+#. . . . . . .          
 After Rotation:
        
 .    .
